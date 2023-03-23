@@ -1,6 +1,4 @@
-package demo_arry;
-
-import java.util.Arrays;
+package Concept_A;
 
 /*
         1)Declare an array

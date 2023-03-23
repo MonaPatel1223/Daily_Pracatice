@@ -1,4 +1,4 @@
-package demo_arry;
+package Concept_A;
 
 /*
 1)Declare an array
